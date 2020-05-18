@@ -41,7 +41,7 @@ class _MyHomePageState extends State<MyHomePage> {
                   additionalOptions: {
                     'accessToken':
                         'pk.eyJ1IjoidXphaXJsZW8iLCJhIjoiY2s5dDZrMDczMDBjZzNuczl5MHRuOG96dCJ9.h38NYuX8Kb3ZzUHheU1Kew',
-                    'id': 'mapbox.mapbox-streets-v7'
+                    'id': 'mapbox.mapbox-standard'
                   }),
               new PolylineLayerOptions(
                 polylines: [
